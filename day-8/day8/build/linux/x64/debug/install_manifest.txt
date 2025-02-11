@@ -1,0 +1,12 @@
+/home/chloro/me/prog/flutter-workshop/day-8/day8/build/linux/x64/debug/bundle/day8
+/home/chloro/me/prog/flutter-workshop/day-8/day8/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/chloro/me/prog/flutter-workshop/day-8/day8/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/chloro/me/prog/flutter-workshop/day-8/day8/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/chloro/me/prog/flutter-workshop/day-8/day8/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/chloro/me/prog/flutter-workshop/day-8/day8/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/chloro/me/prog/flutter-workshop/day-8/day8/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/chloro/me/prog/flutter-workshop/day-8/day8/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/chloro/me/prog/flutter-workshop/day-8/day8/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/home/chloro/me/prog/flutter-workshop/day-8/day8/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin
+/home/chloro/me/prog/flutter-workshop/day-8/day8/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/home/chloro/me/prog/flutter-workshop/day-8/day8/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json

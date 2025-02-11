@@ -1,0 +1,1 @@
+ /home/chloro/me/prog/flutter-workshop/day-8/day8/.dart_tool/flutter_build/f0110b0604492e823705798d6350c952/native_assets.yaml: 
